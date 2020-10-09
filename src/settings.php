@@ -18,10 +18,10 @@ return [
         
         'db' => [
             'driver' => 'mysql',
-            'host' => 'localhost',
-            'database' => 'feedzRecoloca',
-            'username' => 'feedzrec',
-            'password' => "FR1q2w3e4r!",
+            'host' => 'mysql669.umbler.com',
+            'database' => 'afrikedin',
+            'username' => 'afrikedin',
+            'password' => "1gu4ld4d3",
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
 	        'prefix' => '',
