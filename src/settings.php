@@ -23,7 +23,7 @@ return [
             'username' => 'afrikedin',
             'password' => "1gu4ld4d3",
             'charset' => 'utf8',
-            'collation' => 'utf8_unicode_ci',
+            'collation' => 'utf8mb4_unicode_ci',
 	        'prefix' => '',
         ],
     ],
